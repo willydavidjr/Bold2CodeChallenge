@@ -1,4 +1,7 @@
 # Bold2CodeChallenge
+
+![My image](https://raw.githubusercontent.com/willydavidjr/Bold2CodeChallenge/master/15055879_1337296879627500_829322066688367990_n.jpg)
+
 My winning entry on Bold 2 Code 2016 Challenge of Voyager Innovations.
 
 The Challenge:
